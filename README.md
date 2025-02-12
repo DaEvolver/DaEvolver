@@ -6,9 +6,6 @@
 
 💬 Let’s talk! If you have an **exciting project idea**, want to **collaborate**, or just want to **chat about tech**, I’d love to hear from you. Together, we can create something amazing! 🌟  
 
----
-
-This version uses emojis to break up the text, making it more visually engaging and easier to read while maintaining a professional tone. It’s perfect for your GitHub profile!
 <!---
 DaEvolver/DaEvolver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
